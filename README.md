@@ -12,8 +12,6 @@ We have a directory with a number of images of infected cells and uninfected cel
 
 ![Neural Networks](https://user-images.githubusercontent.com/65499285/193041366-f95ff404-8ad6-497c-be7f-dc87c2e7c3a1.svg)
 
-<br><br><br><br><br>
-
 ## DESIGN STEPS
 
 ### Step 1:
@@ -28,8 +26,6 @@ Define the model with appropriate neurons.
 Pass the training and validation data to the model.
 ### Step 6:
 Plot the necessary graphs.
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM
 ```python
@@ -194,8 +190,6 @@ plt.show()
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 ![image](https://user-images.githubusercontent.com/75234991/194916856-2c6b2fa5-a31d-4d28-a7f3-47174787c38b.png)
-
-<br><br><br><br><br>
 
 ### Classification Report
 
